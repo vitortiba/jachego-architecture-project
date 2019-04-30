@@ -1,0 +1,6 @@
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Shared\bin\Debug\Jachego.Shared.dll
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Shared\bin\Debug\Jachego.Shared.pdb
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Shared\obj\Debug\Jachego.Shared.csprojAssemblyReference.cache
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Shared\obj\Debug\Jachego.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Shared\obj\Debug\Jachego.Shared.dll
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Shared\obj\Debug\Jachego.Shared.pdb

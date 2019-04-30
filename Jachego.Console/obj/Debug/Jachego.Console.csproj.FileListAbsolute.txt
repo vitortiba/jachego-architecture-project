@@ -1,0 +1,7 @@
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\bin\Debug\Jachego.Console.exe.config
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\bin\Debug\Jachego.Console.exe
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\bin\Debug\Jachego.Console.pdb
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Console.csprojAssemblyReference.cache
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Console.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Console.exe
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Console.pdb
