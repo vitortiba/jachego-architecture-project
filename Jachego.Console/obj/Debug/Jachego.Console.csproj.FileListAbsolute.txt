@@ -5,3 +5,5 @@ C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Conso
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Console.csproj.CoreCompileInputs.cache
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Console.exe
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Console.pdb
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\bin\Debug\Flunt.dll
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Console.csproj.CopyComplete
