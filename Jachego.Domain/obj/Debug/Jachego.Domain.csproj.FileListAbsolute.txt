@@ -4,3 +4,6 @@ C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\obj\Debug\Jachego.Domain
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\obj\Debug\Jachego.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\obj\Debug\Jachego.Domain.dll
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\obj\Debug\Jachego.Domain.pdb
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Jachego.Shared.dll
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Jachego.Shared.pdb
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\obj\Debug\Jachego.Domain.csproj.CopyComplete

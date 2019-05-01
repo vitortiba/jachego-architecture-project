@@ -51,5 +51,11 @@
   <ItemGroup>
     <Folder Include="Shipping\Repositories\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Jachego.Shared\Jachego.Shared.csproj">
+      <Project>{BE7E1A9B-7305-44D6-9322-B0378280FEB1}</Project>
+      <Name>Jachego.Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
