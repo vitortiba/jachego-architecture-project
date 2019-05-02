@@ -16,13 +16,19 @@ namespace Jachego.Domain.Shipping.ValueObjects
             Carrier = carrier;
 
             if (String.IsNullOrEmpty(code))
-                AddNotification("code", "endereço do e-mail vazio");
+            {
+                AddNotification("code", "É necessário que tenha um código de rastreio");
+            }
+            if (carrier.Equals(null))
+            {
+                AddNotification("carrier", "A transportadora está vazia");
+            }
         }
 
         public string Code { get; private set; }
         public Carrier Carrier { get; private set; }
 
-        public string FormatCode ()
+        public string BuildCode ()
         {
             return Carrier.Name + '-' + Code;
         }
