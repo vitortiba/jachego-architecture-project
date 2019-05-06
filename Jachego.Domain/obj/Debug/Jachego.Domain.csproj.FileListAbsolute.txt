@@ -7,15 +7,4 @@ C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\obj\Debug\Jachego.Domain
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Jachego.Shared.dll
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Jachego.Shared.pdb
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\obj\Debug\Jachego.Domain.csproj.CopyComplete
-C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Flunt.dll
-C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Jachego.Console.exe
-C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Jachego.Domain.Tests.dll
-C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Jachego.Console.pdb
-C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Jachego.Console.exe.config
-C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Jachego.Domain.Tests.pdb
-C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Jachego.Domain.Shipping.Repositories
 {
-    interface IParcelRepository
+    public interface IParcelRepository
     {
         void Save(Parcel parcel);
         IEnumerable<Parcel> GetParcels();

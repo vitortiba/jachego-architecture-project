@@ -7,3 +7,7 @@ C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Conso
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Console.pdb
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\bin\Debug\Flunt.dll
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\obj\Debug\Jachego.Console.csproj.CopyComplete
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\bin\Debug\Jachego.Domain.dll
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\bin\Debug\Jachego.Shared.dll
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\bin\Debug\Jachego.Domain.pdb
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Console\bin\Debug\Jachego.Shared.pdb

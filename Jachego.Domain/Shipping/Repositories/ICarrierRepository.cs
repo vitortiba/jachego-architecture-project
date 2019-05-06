@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Jachego.Domain.Shipping.Repositories
 {
-    interface ICarrierRepository
+    public interface ICarrierRepository
     {
         Carrier GetById(Guid id);
         void Save(Carrier carrier);

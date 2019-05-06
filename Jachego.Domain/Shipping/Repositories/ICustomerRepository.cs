@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Jachego.Domain.Shipping.Repositories
 {
-    interface ICustomerRepository
+    public interface ICustomerRepository
     {
         Customer GetById(Guid id);
         void Save(Customer customer);

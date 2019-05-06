@@ -53,5 +53,15 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Jachego.Domain\Jachego.Domain.csproj">
+      <Project>{8a6867ad-cbfa-4147-b3f5-51f757af7bcc}</Project>
+      <Name>Jachego.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Jachego.Shared\Jachego.Shared.csproj">
+      <Project>{BE7E1A9B-7305-44D6-9322-B0378280FEB1}</Project>
+      <Name>Jachego.Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

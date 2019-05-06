@@ -54,16 +54,7 @@
     <Compile Include="Shipping\ValueObjects\DeliveryInterval.cs" />
     <Compile Include="Shipping\ValueObjects\TrackingCode.cs" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\Jachego.Console\Jachego.Console.csproj">
-      <Project>{014f1f52-849d-4779-a314-32049ce609f4}</Project>
-      <Name>Jachego.Console</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Jachego.Domain.Tests\Jachego.Domain.Tests.csproj">
-      <Project>{d59081af-341d-40fe-bc40-29cbcd7bb949}</Project>
-      <Name>Jachego.Domain.Tests</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Jachego.Shared\Jachego.Shared.csproj">
       <Project>{BE7E1A9B-7305-44D6-9322-B0378280FEB1}</Project>
       <Name>Jachego.Shared</Name>
