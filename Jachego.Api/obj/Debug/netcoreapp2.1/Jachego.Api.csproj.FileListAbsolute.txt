@@ -1,0 +1,14 @@
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\bin\Debug\netcoreapp2.1\Jachego.Api.deps.json
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\bin\Debug\netcoreapp2.1\Jachego.Api.runtimeconfig.json
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\bin\Debug\netcoreapp2.1\Jachego.Api.runtimeconfig.dev.json
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\bin\Debug\netcoreapp2.1\Jachego.Api.dll
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\obj\Debug\netcoreapp2.1\Jachego.Api.csprojAssemblyReference.cache
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\obj\Debug\netcoreapp2.1\Jachego.Api.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\obj\Debug\netcoreapp2.1\Jachego.Api.RazorAssemblyInfo.cache
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\obj\Debug\netcoreapp2.1\Jachego.Api.RazorAssemblyInfo.cs
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\obj\Debug\netcoreapp2.1\Jachego.Api.AssemblyInfoInputs.cache
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\obj\Debug\netcoreapp2.1\Jachego.Api.AssemblyInfo.cs
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\obj\Debug\netcoreapp2.1\Jachego.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\bin\Debug\netcoreapp2.1\Jachego.Api.pdb
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\obj\Debug\netcoreapp2.1\Jachego.Api.dll
+C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Api\obj\Debug\netcoreapp2.1\Jachego.Api.pdb
