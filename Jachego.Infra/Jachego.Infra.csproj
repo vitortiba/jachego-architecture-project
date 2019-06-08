@@ -54,6 +54,7 @@
     <Compile Include="Mappings\ParcelMap.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\CustomerRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -69,5 +70,6 @@
       <Name>Jachego.Shared</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
