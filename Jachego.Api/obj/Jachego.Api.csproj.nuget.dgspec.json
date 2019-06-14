@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vitor Tiba\\source\\repos\\Jachego\\Jachego.Api\\Jachego.Api.csproj": {}
+    "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Api\\Jachego.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vitor Tiba\\source\\repos\\Jachego\\Jachego.Api\\Jachego.Api.csproj": {
+    "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Api\\Jachego.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitor Tiba\\source\\repos\\Jachego\\Jachego.Api\\Jachego.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Api\\Jachego.Api.csproj",
         "projectName": "Jachego.Api",
-        "projectPath": "C:\\Users\\Vitor Tiba\\source\\repos\\Jachego\\Jachego.Api\\Jachego.Api.csproj",
-        "packagesPath": "C:\\Users\\Vitor Tiba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitor Tiba\\source\\repos\\Jachego\\Jachego.Api\\obj\\",
+        "projectPath": "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Api\\Jachego.Api.csproj",
+        "packagesPath": "C:\\Users\\Mônica Colomera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vitor Tiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mônica Colomera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +29,11 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Domain\\Jachego.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Domain\\Jachego.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -60,6 +64,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
             }
           },
           "imports": [
@@ -68,6 +76,37 @@
           "assetTargetFallback": true,
           "warn": true
         }
+      }
+    },
+    "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Domain\\Jachego.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Domain\\Jachego.Domain.csproj",
+        "projectName": "Jachego.Domain",
+        "projectPath": "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Domain\\Jachego.Domain.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Shared\\Jachego.Shared.csproj": {
+                "projectPath": "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Shared\\Jachego.Shared.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Shared\\Jachego.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Shared\\Jachego.Shared.csproj",
+        "projectName": "Jachego.Shared",
+        "projectPath": "C:\\Users\\Mônica Colomera\\Downloads\\jachego-architecture-project\\Jachego.Shared\\Jachego.Shared.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

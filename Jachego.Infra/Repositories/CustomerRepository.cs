@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Jachego.Domain.Shipping.Entities;
+using Jachego.Domain.Shipping.Repositories;
+using Jachego.Infra.Contexts;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,14 +13,20 @@ namespace Jachego.Infra.Repositories
     {
         private readonly StoreDataContext _context;
 
-        public CustomerRepository(StoreDataContext context)
+        public CustomerRepository (StoreDataContext context)
         {
             _context = context;
         }
 
-        public CustomerRepository GetById(Guid id)
+        Customer ICustomerRepository.GetById(Guid id)
         {
-            return _context
+            return _context.Customers.AsNoTracking().FirstOrDefault(x => x.Id == id);
+        }
+
+        public void Save(Customer customer)
+        {
+            _context.Customers.Add(customer);
+            _context.SaveChanges();
         }
 
     }

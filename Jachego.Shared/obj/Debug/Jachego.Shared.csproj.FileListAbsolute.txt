@@ -6,3 +6,11 @@ C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Shared\obj\Debug\Jachego.Shared
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Shared\obj\Debug\Jachego.Shared.pdb
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Shared\bin\Debug\Flunt.dll
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Shared\obj\Debug\Jachego.Shared.csproj.CopyComplete
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Shared\bin\Debug\Jachego.Shared.dll
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Shared\bin\Debug\Jachego.Shared.pdb
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Shared\bin\Debug\Flunt.dll
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Shared\obj\Debug\Jachego.Shared.csprojAssemblyReference.cache
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Shared\obj\Debug\Jachego.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Shared\obj\Debug\Jachego.Shared.csproj.CopyComplete
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Shared\obj\Debug\Jachego.Shared.dll
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Shared\obj\Debug\Jachego.Shared.pdb

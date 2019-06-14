@@ -2,43 +2,50 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Jachego.Domain.Shipping.Entities;
+using Jachego.Domain.Shipping.Repositories;
 using Microsoft.AspNetCore.Mvc;
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Jachego.Api.Controllers
 {
     [Route("api/[controller]")]
     public class CustomerController : Controller
     {
-        ola
-        // GET: api/<controller>
-        [HttpGet]
-        public IEnumerable<string> Get()
+        public readonly ICustomerRepository _repository;
+
+        public CustomerController(ICustomerRepository repository)
         {
-            return new string[] { "value1", "value2" };
+            _repository = repository;
         }
 
-        // GET api/<controller>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public Customer Get(int id)
         {
-            return "value";
+            byte[] bytes = new byte[16];
+            BitConverter.GetBytes(id).CopyTo(bytes, 0);
+            var newId = new Guid(bytes);
+
+            return _repository.GetById(newId);
         }
 
-        // POST api/<controller>
         [HttpPost]
-        public void Post([FromBody]string value)
+        public void Post([FromBody]Customer customer)
         {
+            try
+            {
+                _repository.Save(customer);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
         }
 
-        // PUT api/<controller>/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody]string value)
         {
         }
 
-        // DELETE api/<controller>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {

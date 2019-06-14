@@ -16,3 +16,15 @@ C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain.Tests\obj\Debug\Jachego.
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain.Tests\obj\Debug\Jachego.Domain.Tests.dll
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain.Tests\obj\Debug\Jachego.Domain.Tests.pdb
 C:\Users\Vitor Tiba\source\repos\Jachego\Jachego.Domain.Tests\bin\Debug\Flunt.dll
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\bin\Debug\Jachego.Domain.Tests.dll
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\bin\Debug\Jachego.Domain.Tests.pdb
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\bin\Debug\Flunt.dll
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\obj\Debug\Jachego.Domain.Tests.csprojAssemblyReference.cache
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\obj\Debug\Jachego.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\obj\Debug\Jachego.Domain.Tests.csproj.CopyComplete
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\obj\Debug\Jachego.Domain.Tests.dll
+C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Domain.Tests\obj\Debug\Jachego.Domain.Tests.pdb

@@ -11,6 +11,5 @@ namespace Jachego.Domain.Shipping.Repositories
     {
         Carrier GetById(Guid id);
         void Save(Carrier carrier);
-        IEnumerable<Carrier> GetCarriers();
     }
 }
