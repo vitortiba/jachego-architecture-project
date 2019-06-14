@@ -9,37 +9,33 @@ using Microsoft.AspNetCore.Mvc;
 namespace Jachego.Api.Controllers
 {
     [Route("api/[controller]")]
-    public class CustomerController : Controller
+    public class ParcelController : Controller
     {
-        private readonly ICustomerRepository _repository;
+        private readonly IParcelRepository _repository;
 
-        public CustomerController(ICustomerRepository repository)
+        public ParcelController(IParcelRepository repository)
         {
             _repository = repository;
         }
 
         [HttpGet]
-        public IEnumerable<Customer> Get()
+        public IEnumerable<Parcel> Get()
         {
-            return _repository.GetCustomers();
+            return _repository.GetParcels();
         }
 
         [HttpGet("{id}")]
-        public Customer Get(int id)
+        public Parcel Get(string code)
         {
-            byte[] bytes = new byte[16];
-            BitConverter.GetBytes(id).CopyTo(bytes, 0);
-            var newId = new Guid(bytes);    
-
-            return _repository.GetById(newId);
+            return _repository.GetParcelByCode(code);
         }
 
         [HttpPost]
-        public void Post([FromBody]Customer customer)
+        public void Post([FromBody]Parcel parcel)
         {
             try
             {
-                _repository.Save(customer);
+                _repository.Save(parcel);
             }
             catch (Exception e)
             {

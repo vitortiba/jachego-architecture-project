@@ -12,7 +12,5 @@ namespace Jachego.Domain.Shipping.Repositories
         void Save(Parcel parcel);
         IEnumerable<Parcel> GetParcels();
         Parcel GetParcelByCode(string code);
-        IEnumerable<Parcel> GetParcelsByCustomer(Guid id);
-        IEnumerable<Parcel> GetParcelsByCarrier(Guid id);
     }
 }

@@ -8,29 +8,29 @@ using Jachego.Infra.Contexts;
 
 namespace Jachego.Infra.Repositories
 {
-    public class CustomerRepository : ICustomerRepository
+    public class ParcelRepository : IParcelRepository
     {
         private readonly StoreDataContext _context;
 
-        public CustomerRepository(StoreDataContext context)
+        public ParcelRepository(StoreDataContext context)
         {
             _context = context;
         }
 
-        public Customer GetById(Guid id)
+        public Parcel GetParcelByCode(string code)
         {
-            return _context.Customers.AsNoTracking().FirstOrDefault(x => x.Id == id);
+            return _context.Parcel.Find(code);
         }
 
-        public void Save(Customer customer)
+        public void Save(Parcel parcel)
         {
-            _context.Customers.Add(customer);
+            _context.Parcel.Add(parcel);
             _context.SaveChanges();
         }
 
-        public IEnumerable<Customer> GetCustomers()
+        public IEnumerable<Parcel> GetParcels()
         {
-            return _context.Customers.ToList();
+            return _context.Parcel.ToList();
         }
 
 
