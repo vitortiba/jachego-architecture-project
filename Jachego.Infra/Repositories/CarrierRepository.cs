@@ -33,6 +33,34 @@ namespace Jachego.Infra.Repositories
             return _context.Carriers.ToList();
         }
 
+        public void Delete(Guid id)
+        {
+            var carrier = _context.Carriers.Find(id);
+
+            _context.Carriers.Remove(carrier);
+            _context.SaveChanges();
+        }
+
+        /**
+        public void UpdateCarrier(Carrier carrier)
+        {
+            var existingCarrier = _context.Carriers.Where(s => s.Id == carrier.Id).FirstOrDefault<Carrier>();
+
+            if (existingCarrier != null)
+            {
+                existingCarrier.Name = carrier.Name;
+                existingCarrier.Document = carrier.Document;
+                existingCarrier.Document = carrier.Email;
+
+                _context.SaveChanges();
+            }
+            else
+            {
+                return NotFound();
+            }
+        }
+        **/
+
 
 
     }

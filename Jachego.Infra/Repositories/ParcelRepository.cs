@@ -32,7 +32,13 @@ namespace Jachego.Infra.Repositories
         {
             return _context.Parcel.ToList();
         }
+        public void Delete(string code)
+        {
+            var parcel = _context.Parcel.Find(code);
 
+            _context.Parcel.Remove(parcel);
+            _context.SaveChanges();
+        }
 
 
     }

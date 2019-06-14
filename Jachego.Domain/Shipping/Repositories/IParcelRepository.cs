@@ -12,5 +12,6 @@ namespace Jachego.Domain.Shipping.Repositories
         void Save(Parcel parcel);
         IEnumerable<Parcel> GetParcels();
         Parcel GetParcelByCode(string code);
+        void Delete(string code);
     }
 }
