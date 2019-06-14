@@ -2,6 +2,7 @@
 using Jachego.Shared.ValueObjects;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,6 +26,7 @@ namespace Jachego.Domain.Shipping.ValueObjects
             }
         }
 
+        [Key]
         public string Code { get; private set; }
         public Carrier Carrier { get; private set; }
 

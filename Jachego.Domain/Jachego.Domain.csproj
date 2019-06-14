@@ -35,6 +35,7 @@
       <HintPath>..\packages\Flunt.1.0.3\lib\netstandard2.0\Flunt.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />

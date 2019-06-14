@@ -24,3 +24,16 @@ C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Console
 C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Console\obj\Debug\Jachego.Console.csproj.CopyComplete
 C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Console\obj\Debug\Jachego.Console.exe
 C:\Users\Mônica Colomera\Downloads\jachego-architecture-project\Jachego.Console\obj\Debug\Jachego.Console.pdb
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\bin\Debug\Jachego.Console.exe.config
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\bin\Debug\Jachego.Console.exe
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\bin\Debug\Jachego.Console.pdb
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\bin\Debug\Flunt.dll
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\bin\Debug\Jachego.Domain.dll
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\bin\Debug\Jachego.Shared.dll
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\bin\Debug\Jachego.Domain.pdb
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\bin\Debug\Jachego.Shared.pdb
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\obj\Debug\Jachego.Console.csprojAssemblyReference.cache
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\obj\Debug\Jachego.Console.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\obj\Debug\Jachego.Console.csproj.CopyComplete
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\obj\Debug\Jachego.Console.exe
+C:\Users\leona\Desktop\JaChego\jachego-architecture-project\Jachego.Console\obj\Debug\Jachego.Console.pdb
