@@ -12,5 +12,6 @@ namespace Jachego.Domain.Shipping.Repositories
         Customer GetById(Guid id);
         void Save(Customer customer);
         IEnumerable<Customer> GetCustomers();
+        void Delete(Guid id);
     }
 }

@@ -54,6 +54,12 @@ namespace Jachego.Console
             {
                 throw new NotImplementedException();
             }
+
+            public void Delete(Guid id)
+            {
+                throw new NotImplementedException();
+            }
+
         }
 
         public class FakeCarrierRepository : ICarrierRepository
@@ -76,6 +82,10 @@ namespace Jachego.Console
             }
 
             public void Save(Carrier carrier)
+            {
+                throw new NotImplementedException();
+            }
+            public void Delete(Guid id)
             {
                 throw new NotImplementedException();
             }
@@ -115,6 +125,10 @@ namespace Jachego.Console
             }
 
             public void Save(Parcel parcel)
+            {
+                throw new NotImplementedException();
+            }
+            public void Delete(string code)
             {
                 throw new NotImplementedException();
             }

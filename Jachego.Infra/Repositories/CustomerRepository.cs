@@ -33,6 +33,14 @@ namespace Jachego.Infra.Repositories
             return _context.Customers.ToList();
         }
 
+        public void Delete(Guid id)
+        {
+            var customer = _context.Customers.Find(id);
+
+            _context.Customers.Remove(customer);
+            _context.SaveChanges();
+        }
+
 
 
     }
